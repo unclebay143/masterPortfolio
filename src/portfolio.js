@@ -278,9 +278,10 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  // subtitle: "Work, Internship and Volunteership",
+  subtitle: " Contribution, Internship and Volunteership",
   description:
-    "I have picked and worked on personal projects, as well as Open Source Project which have helped me acquired more skills,  ",
+    "I worked on real life projects during my internship, picked and worked on personal projects, as well as contributing to Open Source Projects which has helped sharpen both my technical and team playing skills.",
   header_image_path: "experience.svg",
   sections: [
     // {
