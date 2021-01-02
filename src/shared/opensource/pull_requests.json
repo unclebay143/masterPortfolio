@@ -1,1 +1,2472 @@
-{"data":[{"id":"MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1","title":"Migrated some files from TF 1.0 to 2.0","url":"https://github.com/tensorflow/addons/pull/1746","state":"OPEN","mergedBy":null,"createdAt":"2020-04-27T11:34:31Z","number":1746,"changedFiles":2,"additions":1,"deletions":6,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz","title":"Added tutorial notebooks for Focal and Contrastive losses","url":"https://github.com/tensorflow/addons/pull/1732","state":"OPEN","mergedBy":null,"createdAt":"2020-04-26T10:17:22Z","number":1732,"changedFiles":2,"additions":512,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy","title":"Fixed CyclicLearningRate and its tests' errors","url":"https://github.com/tensorflow/addons/pull/1729","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/18154355?u=f54c237b8932acf13dcfcd495ca8c8e6a3cbaae4&v=4","url":"https://github.com/seanpmorgan","login":"seanpmorgan"},"createdAt":"2020-04-25T12:33:41Z","number":1729,"changedFiles":2,"additions":60,"deletions":12,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1","title":"Added serializability tests in all optimizers and fixed serializability bug in yogi","url":"https://github.com/tensorflow/addons/pull/1728","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/18154355?u=f54c237b8932acf13dcfcd495ca8c8e6a3cbaae4&v=4","url":"https://github.com/seanpmorgan","login":"seanpmorgan"},"createdAt":"2020-04-25T07:19:04Z","number":1728,"changedFiles":10,"additions":80,"deletions":2,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0","title":"Setting up complete workflow for project","url":"https://github.com/ashutosh1919/masterPortfolio/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2020-04-23T12:48:04Z","number":4,"changedFiles":19,"additions":38,"deletions":47,"baseRepository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0","title":"Test PR to setup workflow","url":"https://github.com/ashutosh1919/masterPortfolio/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2020-04-23T12:24:42Z","number":3,"changedFiles":1,"additions":32,"deletions":0,"baseRepository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5","title":"Added layer_test in addons and refactoring the code","url":"https://github.com/tensorflow/addons/pull/1715","state":"OPEN","mergedBy":null,"createdAt":"2020-04-22T07:05:25Z","number":1715,"changedFiles":1,"additions":84,"deletions":2,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx","title":"Added Center loss","url":"https://github.com/tensorflow/addons/pull/1709","state":"OPEN","mergedBy":null,"createdAt":"2020-04-19T03:52:25Z","number":1709,"changedFiles":3,"additions":131,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NDkyMDkw","title":"Fixed _save_model not working for batches in ModelCheckpoint Callback","url":"https://github.com/tensorflow/tensorflow/pull/38669","state":"OPEN","mergedBy":null,"createdAt":"2020-04-18T12:26:37Z","number":38669,"changedFiles":1,"additions":16,"deletions":8,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NDQ3MTk1","title":"Fixed average_model_checkpoint to have integer save_freq","url":"https://github.com/tensorflow/addons/pull/1702","state":"OPEN","mergedBy":null,"createdAt":"2020-04-18T05:20:34Z","number":1702,"changedFiles":2,"additions":27,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1MTAzNjY3","title":"Added LossFunctionWrapper for losses and simplified code","url":"https://github.com/tensorflow/addons/pull/1688","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/11615393?u=9734b198bd7f7498157e95d48371c39e44b5002b&v=4","url":"https://github.com/WindQAQ","login":"WindQAQ"},"createdAt":"2020-04-17T12:27:37Z","number":1688,"changedFiles":6,"additions":46,"deletions":90,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA0MTU2NDUy","title":"Added Multi Similarity loss","url":"https://github.com/tensorflow/addons/pull/1679","state":"OPEN","mergedBy":null,"createdAt":"2020-04-16T06:59:30Z","number":1679,"changedFiles":4,"additions":573,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAzNzQwMjM1","title":"Added demo of TQDMProgressBar() for evaluate()","url":"https://github.com/tensorflow/addons/pull/1674","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/16867893?u=afbda060ede35cddb90255a8295460f6a2395135&v=4","url":"https://github.com/shun-lin","login":"shun-lin"},"createdAt":"2020-04-15T12:51:00Z","number":1674,"changedFiles":1,"additions":19,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAzMTcxMjA3","title":"Added tests for AverageModelCheckpoint() callback","url":"https://github.com/tensorflow/addons/pull/1667","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4","url":"https://github.com/gabrieldemarmiesse","login":"gabrieldemarmiesse"},"createdAt":"2020-04-14T13:04:03Z","number":1667,"changedFiles":1,"additions":199,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyOTg1MDU4","title":"Added code to call register_all() before loading model","url":"https://github.com/tensorflow/addons/pull/1665","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-14T05:58:52Z","number":1665,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyNjMyMzcz","title":"Added code to pass appropriate logs to on_test|train_end() methods","url":"https://github.com/tensorflow/tensorflow/pull/38499","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-04-13T12:57:08Z","number":38499,"changedFiles":2,"additions":10,"deletions":6,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMjg2MTk1","title":"Added TQDM Progressbar for evaluate()","url":"https://github.com/tensorflow/addons/pull/1649","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4","url":"https://github.com/gabrieldemarmiesse","login":"gabrieldemarmiesse"},"createdAt":"2020-04-12T04:42:01Z","number":1649,"changedFiles":2,"additions":102,"deletions":58,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMTg1MzUy","title":"Added new flexible loss named GeneralLoss","url":"https://github.com/tensorflow/addons/pull/1647","state":"OPEN","mergedBy":null,"createdAt":"2020-04-11T12:44:29Z","number":1647,"changedFiles":3,"additions":687,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMTM5OTM5","title":"Adding progress bar also while evaluating the model","url":"https://github.com/tensorflow/tensorflow/pull/38447","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-11T04:46:51Z","number":38447,"changedFiles":1,"additions":3,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAxNzgxODEy","title":"Fixed broken links for post training quant and xla","url":"https://github.com/tensorflow/docs/pull/1535","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-04-10T06:46:53Z","number":1535,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAwMTA5MjQ0","title":"Fixed broken link for seo.js","url":"https://github.com/apollographql/gatsby-theme-apollo/pull/111","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/1216917?u=91a9f4a5d3d20f7606ec40922d734abfaf170fd7&v=4","url":"https://github.com/trevorblades","login":"trevorblades"},"createdAt":"2020-04-07T08:09:48Z","number":111,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","login":"apollographql","url":"https://github.com/apollographql"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk5NTk4Mjk2","title":"Modified Social Card Design","url":"https://github.com/firecampapp/firecamp-doc/pull/37","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4","url":"https://github.com/Nishchit14","login":"Nishchit14"},"createdAt":"2020-04-06T12:06:58Z","number":37,"changedFiles":2,"additions":105,"deletions":0,"baseRepository":{"name":"firecamp-doc","url":"https://github.com/firecampapp/firecamp-doc","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/45025286?v=4","login":"firecampapp","url":"https://github.com/firecampapp"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk5MDI1MDc3","title":"header-button.js component shadowed to show the correct link","url":"https://github.com/firecampapp/firecamp-doc/pull/35","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4","url":"https://github.com/Nishchit14","login":"Nishchit14"},"createdAt":"2020-04-05T10:57:55Z","number":35,"changedFiles":1,"additions":49,"deletions":0,"baseRepository":{"name":"firecamp-doc","url":"https://github.com/firecampapp/firecamp-doc","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/45025286?v=4","login":"firecampapp","url":"https://github.com/firecampapp"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk4MDc0NjYy","title":"Added Basic Reveal Fade animations","url":"https://github.com/saadpasta/developerFolio/pull/76","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","url":"https://github.com/kartik918","login":"kartik918"},"createdAt":"2020-04-03T09:52:10Z","number":76,"changedFiles":15,"additions":45,"deletions":0,"baseRepository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","login":"saadpasta","url":"https://github.com/saadpasta"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk3OTQzMTk3","title":"Added basic animations","url":"https://github.com/saadpasta/developerFolio/pull/74","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-03T05:21:40Z","number":74,"changedFiles":18,"additions":463,"deletions":295,"baseRepository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","login":"saadpasta","url":"https://github.com/saadpasta"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk3NDkxODM2","title":"Added doc for absolute import from gatsby eslint rules or other tools","url":"https://github.com/gatsbyjs/gatsby/pull/22750","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15000607?u=96821f18af94d1574d81f3f50918fb51b595d2bf&v=4","url":"https://github.com/laurieontech","login":"laurieontech"},"createdAt":"2020-04-02T10:32:52Z","number":22750,"changedFiles":1,"additions":13,"deletions":0,"baseRepository":{"name":"gatsby","url":"https://github.com/gatsbyjs/gatsby","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/12551863?v=4","login":"gatsbyjs","url":"https://github.com/gatsbyjs"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk2OTUwMDgy","title":"Corrected order of params of loss fn in custom_training.ipynb","url":"https://github.com/tensorflow/docs/pull/1528","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-04-01T12:00:52Z","number":1528,"changedFiles":1,"additions":4,"deletions":4,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk0MDU1Njc1","title":"docs(accordion):  add ul wrapper for standalone panel","url":"https://github.com/uber/baseweb/pull/3119","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/5317799?u=e5381f9c4ee2046154527e6276e38416fd7c8105&v=4","url":"https://github.com/chasestarr","login":"chasestarr"},"createdAt":"2020-03-26T09:36:30Z","number":3119,"changedFiles":2,"additions":6,"deletions":2,"baseRepository":{"name":"baseweb","url":"https://github.com/uber/baseweb","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/538264?v=4","login":"uber","url":"https://github.com/uber"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzOTY1MDAz","title":"Added VariableV2 and VarHandleOp in python API of tesorflow","url":"https://github.com/tensorflow/tensorflow/pull/37925","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-26T05:27:07Z","number":37925,"changedFiles":1,"additions":94,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzNDgxODcy","title":"Modified docstring for minlex","url":"https://github.com/sympy/sympy/pull/18949","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars3.githubusercontent.com/u/90703?u=71efaf421eece4f1d4d342751045acdd15108c50&v=4","url":"https://github.com/smichr","login":"smichr"},"createdAt":"2020-03-25T09:39:40Z","number":18949,"changedFiles":1,"additions":9,"deletions":6,"baseRepository":{"name":"sympy","url":"https://github.com/sympy/sympy","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/260832?v=4","login":"sympy","url":"https://github.com/sympy"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzNDU3NDQ2","title":"Added New book dao tests","url":"https://github.com/kiwix/kiwix-android/pull/1958","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-25T08:43:57Z","number":1958,"changedFiles":1,"additions":90,"deletions":0,"baseRepository":{"name":"kiwix-android","url":"https://github.com/kiwix/kiwix-android","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/826219?v=4","login":"kiwix","url":"https://github.com/kiwix"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyODI5NzM5","title":"Changed message for opening link in new tab dialog","url":"https://github.com/kiwix/kiwix-android/pull/1951","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars3.githubusercontent.com/u/3358282?v=4","url":"https://github.com/macgills","login":"macgills"},"createdAt":"2020-03-24T07:46:29Z","number":1951,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"kiwix-android","url":"https://github.com/kiwix/kiwix-android","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/826219?v=4","login":"kiwix","url":"https://github.com/kiwix"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNzc5NTI3","title":"Add behavioral note to VariableV2 and VarhandleOp","url":"https://github.com/tensorflow/tensorflow/pull/37855","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-24T05:09:43Z","number":37855,"changedFiles":2,"additions":7,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNzY2NzIy","title":"Added example and description about numpy_function() in Dataset.map()","url":"https://github.com/tensorflow/tensorflow/pull/37853","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-24T04:19:08Z","number":37853,"changedFiles":1,"additions":17,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNDAyOTI2","title":"Modified TensorScatterAdd to correctly specify examples for shape of tensor","url":"https://github.com/tensorflow/tensorflow/pull/37832","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-23T13:58:48Z","number":37832,"changedFiles":1,"additions":7,"deletions":6,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMzA4MDUy","title":"Removed unnecessary examples for shape attribute which is not there in tensor_scatter_nd_add","url":"https://github.com/tensorflow/java/pull/35","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-23T10:51:46Z","number":35,"changedFiles":1,"additions":7,"deletions":6,"baseRepository":{"name":"java","url":"https://github.com/tensorflow/java","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMTcxNjYw","title":"Modified spacing and comments in interpreter code in order to show it in codelabs","url":"https://github.com/tensorflow/examples/pull/178","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/47573996?u=802a3f06345c20b7ec61bcd70779bbd88e6bc56b&v=4","url":"https://github.com/TensorFlow-Examples-Copybara","login":"TensorFlow-Examples-Copybara"},"createdAt":"2020-03-23T05:44:31Z","number":178,"changedFiles":1,"additions":1,"deletions":3,"baseRepository":{"name":"examples","url":"https://github.com/tensorflow/examples","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMTYxMjc3","title":"Added description of effect of regularization on validation and test","url":"https://github.com/tensorflow/tensorflow/pull/37816","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-23T05:11:44Z","number":37816,"changedFiles":1,"additions":6,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkxOTY4ODE2","title":"Modified expand_path in config_parser to add environment var for mypy_path","url":"https://github.com/python/mypy/pull/8574","state":"OPEN","mergedBy":null,"createdAt":"2020-03-22T07:43:55Z","number":8574,"changedFiles":1,"additions":4,"deletions":0,"baseRepository":{"name":"mypy","url":"https://github.com/python/mypy","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/1525981?v=4","login":"python","url":"https://github.com/python"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkxOTYwMDI5","title":"Added example in the doc for TypeVar in using generic classes","url":"https://github.com/python/mypy/pull/8573","state":"OPEN","mergedBy":null,"createdAt":"2020-03-22T05:38:59Z","number":8573,"changedFiles":1,"additions":38,"deletions":0,"baseRepository":{"name":"mypy","url":"https://github.com/python/mypy","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/1525981?v=4","login":"python","url":"https://github.com/python"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg4MTg3MTgx","title":" Added evaluation metric mean_absolute_relative_error","url":"https://github.com/scikit-learn/scikit-learn/pull/16689","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-14T06:43:13Z","number":16689,"changedFiles":10,"additions":162,"deletions":5,"baseRepository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","login":"scikit-learn","url":"https://github.com/scikit-learn"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg4MTY2Nzc4","title":"Added preprocessing and corrected example of RGB images before feeding rgb_to_yub","url":"https://github.com/tensorflow/tensorflow/pull/37592","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-14T05:28:38Z","number":37592,"changedFiles":1,"additions":8,"deletions":8,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3ODA4OTcz","title":"Added pytype in tfds/core/lazy_imports_lib.py patch-9","url":"https://github.com/tensorflow/datasets/pull/1642","state":"OPEN","mergedBy":null,"createdAt":"2020-03-13T14:32:36Z","number":1642,"changedFiles":1,"additions":22,"deletions":20,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3NzgyMjI5","title":"Added description for call() in tf.keras.layers.Layer","url":"https://github.com/tensorflow/tensorflow/pull/37574","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-13T13:39:28Z","number":37574,"changedFiles":1,"additions":6,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3NjYwMDQz","title":"Added code for preprocessing of YUV images before feeding yuv_to_rgb","url":"https://github.com/tensorflow/tensorflow/pull/37565","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-13T08:48:58Z","number":37565,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MjU5MDU4","title":"Corrected order of parameters in keras WideDeepModel","url":"https://github.com/tensorflow/tensorflow/pull/37539","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T13:57:32Z","number":37539,"changedFiles":1,"additions":5,"deletions":5,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MjUwMTU0","title":"Added doc and examples for tf.keras.losses.get","url":"https://github.com/tensorflow/tensorflow/pull/37538","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T13:41:13Z","number":37538,"changedFiles":1,"additions":21,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTcxMDQy","title":"Fixed broken link for Bug & Performance issues","url":"https://github.com/tensorflow/community/pull/216","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/9475?v=4","url":"https://github.com/ewilderj","login":"ewilderj"},"createdAt":"2020-03-12T10:49:48Z","number":216,"changedFiles":1,"additions":2,"deletions":1,"baseRepository":{"name":"community","url":"https://github.com/tensorflow/community","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTU0NDY5","title":" Added code and descriptions for complete beginners in overview.ipynb","url":"https://github.com/tensorflow/datasets/pull/1633","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-12T10:16:34Z","number":1633,"changedFiles":1,"additions":28,"deletions":1,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTA3NzU0","title":"Added example related to top_k parameter in tf.keras.metrics.Precision","url":"https://github.com/tensorflow/tensorflow/pull/37528","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T08:34:26Z","number":37528,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0NjUzNjI3","title":"Added pytype in tfds/core/hashing.py patch-8","url":"https://github.com/tensorflow/datasets/pull/1592","state":"OPEN","mergedBy":null,"createdAt":"2020-03-06T06:18:21Z","number":1592,"changedFiles":1,"additions":6,"deletions":4,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0NjQxMjUx","title":"Added pytype in tfds/core/file_format_adapter.py patch-7","url":"https://github.com/tensorflow/datasets/pull/1591","state":"OPEN","mergedBy":null,"createdAt":"2020-03-06T05:27:59Z","number":1591,"changedFiles":2,"additions":52,"deletions":19,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0MDgxMzI2","title":"Added pytype in tfds/core/example_serializer.py patch-6","url":"https://github.com/tensorflow/datasets/pull/1578","state":"OPEN","mergedBy":null,"createdAt":"2020-03-05T05:51:54Z","number":1578,"changedFiles":2,"additions":31,"deletions":11,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0MDY5Nzk5","title":"Added pytype in tfds/core/example_parser.py patch-5","url":"https://github.com/tensorflow/datasets/pull/1576","state":"OPEN","mergedBy":null,"createdAt":"2020-03-05T05:06:18Z","number":1576,"changedFiles":2,"additions":22,"deletions":9,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgzNTkwMTcy","title":"Added pytype in tfds/core/dataset_utils.py patch-4","url":"https://github.com/tensorflow/datasets/pull/1570","state":"OPEN","mergedBy":null,"createdAt":"2020-03-04T14:25:28Z","number":1570,"changedFiles":2,"additions":42,"deletions":13,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgzNDQ4ODc1","title":"Added pytype in tfds/core/dataset_info.py patch-3","url":"https://github.com/tensorflow/datasets/pull/1569","state":"OPEN","mergedBy":null,"createdAt":"2020-03-04T09:59:07Z","number":1569,"changedFiles":1,"additions":77,"deletions":59,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgyNDY0ODAy","title":"Added pytype in tfds/core patch-2","url":"https://github.com/tensorflow/datasets/pull/1554","state":"OPEN","mergedBy":null,"createdAt":"2020-03-02T15:58:16Z","number":1554,"changedFiles":2,"additions":223,"deletions":106,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgyMTg2NjQx","title":"Added pytype in tfds/core patch-1","url":"https://github.com/tensorflow/datasets/pull/1550","state":"OPEN","mergedBy":null,"createdAt":"2020-03-02T05:42:03Z","number":1550,"changedFiles":2,"additions":42,"deletions":8,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODU4Njg5","title":"Specifying about representative_datasets in TfLiteConverter","url":"https://github.com/tensorflow/tensorflow/pull/37192","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-29T14:28:26Z","number":37192,"changedFiles":2,"additions":4,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODU1NDYy","title":"Corrected the default value for name param in Nadam","url":"https://github.com/tensorflow/tensorflow/pull/37188","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-29T14:03:05Z","number":37188,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODE4Njg0","title":"Added code to insert tfds dir into sys.path","url":"https://github.com/tensorflow/datasets/pull/1545","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-29T08:38:18Z","number":1545,"changedFiles":1,"additions":3,"deletions":0,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc5MDE2MTEw","title":"Modified metric_utils.py to fix conflicts with floatx and float32","url":"https://github.com/tensorflow/tensorflow/pull/37020","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-24T14:20:44Z","number":37020,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4OTUyODQ0","title":"Modified doc for specifically mentioning about saving optimizer","url":"https://github.com/tensorflow/docs/pull/1472","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-02-24T11:59:40Z","number":1472,"changedFiles":1,"additions":8,"deletions":8,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4OTAxMDU0","title":"Modified reduce_variance for extra optimization","url":"https://github.com/tensorflow/tensorflow/pull/37014","state":"OPEN","mergedBy":null,"createdAt":"2020-02-24T09:59:46Z","number":37014,"changedFiles":1,"additions":9,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzExNjM2","title":"Added doc for all application models for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36995","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:27:24Z","number":36995,"changedFiles":8,"additions":189,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzEwMjM0","title":"Added doc in inception_resnet_v2 for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36994","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:14:15Z","number":36994,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzA5MTM2","title":"Added doc in DenseNet for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36993","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:05:28Z","number":36993,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzA4NDAy","title":"Added doc in MobileNet for decode_predictions() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36992","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T13:57:39Z","number":36992,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzAxMDM3","title":"Added example of from_tensors and from_tensor_slices","url":"https://github.com/tensorflow/tensorflow/pull/36989","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T12:38:54Z","number":36989,"changedFiles":1,"additions":10,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4MjA1MzIx","title":"Added doc corresponding to decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36951","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-21T10:14:44Z","number":36951,"changedFiles":1,"additions":22,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4MTM3MjQ5","title":"Modifying keras.py to print the KeyError with new line \\n","url":"https://github.com/tensorflow/estimator/pull/51","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/323199?v=4","url":"https://github.com/mihaimaruseac","login":"mihaimaruseac"},"createdAt":"2020-02-21T07:08:28Z","number":51,"changedFiles":2,"additions":20,"deletions":3,"baseRepository":{"name":"estimator","url":"https://github.com/tensorflow/estimator","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzcxMTc1NDAz","title":"Fix formatting of ops_version.md","url":"https://github.com/tensorflow/tensorflow/pull/36479","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-05T04:20:12Z","number":36479,"changedFiles":1,"additions":3,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY5NTEwMjYz","title":"Gradient Doc Changed for v2","url":"https://github.com/tensorflow/tensorflow/pull/36365","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-31T10:21:07Z","number":36365,"changedFiles":1,"additions":16,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY5NDg1MTI3","title":"embedding_lookup_sparse divide by zero fixed","url":"https://github.com/tensorflow/tensorflow/pull/36364","state":"OPEN","mergedBy":null,"createdAt":"2020-01-31T09:20:35Z","number":36364,"changedFiles":2,"additions":25,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MzEwNjA1","title":"Python version corrected in doc","url":"https://github.com/tensorflow/docs/pull/1435","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-01-27T04:50:23Z","number":1435,"changedFiles":2,"additions":2,"deletions":1,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MTMyNzEx","title":"Gradient doc changed to accurately show the returned params","url":"https://github.com/tensorflow/tensorflow/pull/36206","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-01-25T16:49:54Z","number":36206,"changedFiles":1,"additions":16,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MTI2MDk0","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/36204","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-25T15:24:48Z","number":36204,"changedFiles":2,"additions":161,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzYyOTY0NTc3","title":"CUDA and requirements","url":"https://github.com/NVlabs/stylegan/pull/11","state":"OPEN","mergedBy":null,"createdAt":"2020-01-15T05:32:01Z","number":11,"changedFiles":2,"additions":127,"deletions":0,"baseRepository":{"name":"stylegan","url":"https://github.com/NVlabs/stylegan","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/2695301?v=4","login":"NVlabs","url":"https://github.com/NVlabs"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2OTQ0","title":"PR4","url":"https://github.com/nischaypandey/HF1/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:33:23Z","number":4,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2ODgx","title":"PR3","url":"https://github.com/nischaypandey/HF1/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:31:54Z","number":3,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2Nzkw","title":"PR2","url":"https://github.com/nischaypandey/HF1/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:30:15Z","number":2,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2NzI1","title":"PR1","url":"https://github.com/nischaypandey/HF1/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:28:47Z","number":1,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE5NTg0OTgz","title":"JSON Related errors are resolved and json files are compatible to json in python","url":"https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/pull/17","state":"OPEN","mergedBy":null,"createdAt":"2019-09-20T07:00:46Z","number":17,"changedFiles":6742,"additions":7423541,"deletions":228,"baseRepository":{"name":"Entity-Recognition-In-Resumes-SpaCy","url":"https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/39724935?v=4","login":"DataTurks-Engg","url":"https://github.com/DataTurks-Engg"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE4NjQyMzk5","title":"Added mean_absolute_percentage_error in metrics fixes #10708","url":"https://github.com/scikit-learn/scikit-learn/pull/15007","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/630936?u=9471e1bd1f6a8b358928068faae2cbc834dfe0b4&v=4","url":"https://github.com/rth","login":"rth"},"createdAt":"2019-09-18T06:03:48Z","number":15007,"changedFiles":10,"additions":207,"deletions":46,"baseRepository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","login":"scikit-learn","url":"https://github.com/scikit-learn"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE3MDI2OTg3","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32473","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T18:11:26Z","number":32473,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE3MDI0NjAx","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32472","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T18:04:44Z","number":32472,"changedFiles":4529,"additions":260078,"deletions":126363,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE2NzQyNjUy","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32455","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T06:00:10Z","number":32455,"changedFiles":2,"additions":170,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzA1OTM4NTE2","title":"Closing bracket was missing","url":"https://github.com/netrack/keras-metrics/pull/43","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1778407?u=4c464d8a8ba9b291717b85f1eb37b7db2873200b&v=4","url":"https://github.com/ybubnov","login":"ybubnov"},"createdAt":"2019-08-09T10:48:13Z","number":43,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"keras-metrics","url":"https://github.com/netrack/keras-metrics","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/10380772?v=4","login":"netrack","url":"https://github.com/netrack"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAzNDk3NjY0","title":"Issue Fix #6280","url":"https://github.com/fossasia/open-event-server/pull/6289","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-01T18:13:43Z","number":6289,"changedFiles":1,"additions":6,"deletions":0,"baseRepository":{"name":"open-event-server","url":"https://github.com/fossasia/open-event-server","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","login":"fossasia","url":"https://github.com/fossasia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAzNDcwNzYz","title":"check integration default check","url":"https://github.com/fossasia/open-event-server/pull/6288","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-01T16:51:30Z","number":6288,"changedFiles":2,"additions":2,"deletions":1,"baseRepository":{"name":"open-event-server","url":"https://github.com/fossasia/open-event-server","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","login":"fossasia","url":"https://github.com/fossasia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxNDAwNjgx","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/8","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-26T05:29:39Z","number":8,"changedFiles":2,"additions":3,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5","title":"Comments","url":"https://github.com/ashutosh1919/mentornet/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2019-07-26T05:23:10Z","number":1,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"mentornet","url":"https://github.com/ashutosh1919/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMTE4NDY2","title":"Removed Unnecessary imports","url":"https://github.com/C-Aniruddh/DeepConversation/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2019-07-25T12:21:04Z","number":1,"changedFiles":1,"additions":0,"deletions":2,"baseRepository":{"name":"DeepConversation","url":"https://github.com/C-Aniruddh/DeepConversation","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/6713004?u=c2e7a60fa5f385f22dbff72f505da269468d6395&v=4","login":"C-Aniruddh","url":"https://github.com/C-Aniruddh"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDg1Mzc5","title":"Removed Unnecessary import","url":"https://github.com/facebook/FAI-PEP/pull/326","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-25T10:42:49Z","number":326,"changedFiles":1,"additions":0,"deletions":1,"baseRepository":{"name":"FAI-PEP","url":"https://github.com/facebook/FAI-PEP","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","login":"facebook","url":"https://github.com/facebook"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDY1ODY4","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/13424689?u=5a623978c86d2ffb6f5c46764cf57e71c5ced884&v=4","url":"https://github.com/roadjiang","login":"roadjiang"},"createdAt":"2019-07-25T09:48:38Z","number":7,"changedFiles":2,"additions":3,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDA1NDA3","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/6","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-25T06:48:42Z","number":6,"changedFiles":2,"additions":2,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjk5NjIwNDQx","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/keras-team/keras/pull/13129","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-21T08:44:09Z","number":13129,"changedFiles":7,"additions":133,"deletions":70,"baseRepository":{"name":"keras","url":"https://github.com/keras-team/keras","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/34455048?v=4","login":"keras-team","url":"https://github.com/keras-team"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjk3MzIzMjcz","title":"Huber Loss Function for both kind of behavior. ","url":"https://github.com/keras-team/keras/pull/13104","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-13T15:14:42Z","number":13104,"changedFiles":2,"additions":22,"deletions":0,"baseRepository":{"name":"keras","url":"https://github.com/keras-team/keras","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/34455048?v=4","login":"keras-team","url":"https://github.com/keras-team"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjg4NTMyMzQz","title":"RC Details","url":"https://github.com/abhinavhinger12/ala/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2019-06-15T05:19:37Z","number":2,"changedFiles":3,"additions":555,"deletions":0,"baseRepository":{"name":"ala","url":"https://github.com/abhinavhinger12/ala","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/4638215?u=9c8d81f075a4206c9ce6386e7a97babce38c1037&v=4","login":"abhinavhinger12","url":"https://github.com/abhinavhinger12"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MjQzMzQxOTg5","title":"Face Verification and Recognition","url":"https://github.com/trekhleb/homemade-machine-learning/pull/14","state":"OPEN","mergedBy":null,"createdAt":"2019-01-09T13:56:53Z","number":14,"changedFiles":268,"additions":1419,"deletions":1,"baseRepository":{"name":"homemade-machine-learning","url":"https://github.com/trekhleb/homemade-machine-learning","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/3000285?u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4","login":"trekhleb","url":"https://github.com/trekhleb"}}}],"open":25,"closed":24,"merged":51,"totalCount":100}
+{
+  "closed": 5,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTAwMTg3NTg3",
+      "title": "add basic files and folders",
+      "url": "https://github.com/unclebay143/unclebay-portfolio/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-08T21:03:17Z",
+      "number": 1,
+      "changedFiles": 4,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "unclebay-portfolio",
+        "url": "https://github.com/unclebay143/unclebay-portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTAwMTU5NjE5",
+      "title": "Define user",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/102",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-08T20:09:46Z",
+      "number": 102,
+      "changedFiles": 14,
+      "additions": 376,
+      "deletions": 208,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5OTIyODQ5",
+      "title": "Add more attributes to users",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/101",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-08T13:28:22Z",
+      "number": 101,
+      "changedFiles": 4,
+      "additions": 18,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5ODEyNzM0",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/99",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-08T10:16:32Z",
+      "number": 99,
+      "changedFiles": 7,
+      "additions": 150,
+      "deletions": 101,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5ODEyMDgx",
+      "title": "set login background image to cover to fit the page",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/98",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-08T10:15:21Z",
+      "number": 98,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5NDM2ODQ5",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/96",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-07T18:24:07Z",
+      "number": 96,
+      "changedFiles": 7,
+      "additions": 444,
+      "deletions": 61,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5NDE0MDU4",
+      "title": "add hover to active users and dashboard sidebar",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/95",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-07T17:43:01Z",
+      "number": 95,
+      "changedFiles": 4,
+      "additions": 54,
+      "deletions": 67,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5MzYzOTQx",
+      "title": "set login background image to cover to fit the page",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/93",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-07T16:11:38Z",
+      "number": 93,
+      "changedFiles": 2,
+      "additions": 3,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5MzQ2MTc4",
+      "title": "Admin Dashboard ",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/92",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-07T15:43:22Z",
+      "number": 92,
+      "changedFiles": 16,
+      "additions": 1236,
+      "deletions": 108,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk5MzQzNjgy",
+      "title": "admin can now edit employee details using a pop up form",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/91",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-07T15:39:30Z",
+      "number": 91,
+      "changedFiles": 3,
+      "additions": 45,
+      "deletions": 26,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk4ODE2MTA3",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/90",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-06T20:26:59Z",
+      "number": 90,
+      "changedFiles": 29,
+      "additions": 1192,
+      "deletions": 426,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3MzQ4NjY3",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/88",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-03T22:55:11Z",
+      "number": 88,
+      "changedFiles": 9,
+      "additions": 90,
+      "deletions": 81,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3MzQzNzkx",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/87",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-03T22:00:35Z",
+      "number": 87,
+      "changedFiles": 18,
+      "additions": 999,
+      "deletions": 282,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk3MTI5NTcw",
+      "title": "Revert \"Add footer\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/34",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T20:51:23Z",
+      "number": 34,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 54,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjM0Nzc4",
+      "title": "Revert \"improved the UI of the page\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/27",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T01:47:44Z",
+      "number": 27,
+      "changedFiles": 2,
+      "additions": 6,
+      "deletions": 208,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjE1MjE4",
+      "title": "Revert \"Revert \"Revert \"Fully responsive on pc and mobile screen for home page\"\"\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T00:24:52Z",
+      "number": 24,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjE0ODg5",
+      "title": "Revert \"Revert \"Fully responsive on pc and mobile screen for home page\"\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T00:23:39Z",
+      "number": 23,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjEzODQ1",
+      "title": "remove hr tags covering buttons after add more contents to the projects section",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T00:19:28Z",
+      "number": 10,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjEyNjIx",
+      "title": "modified images, adjust overflow and overlaying nodes, centralize projects text, and remove all hr tags after button",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T00:15:04Z",
+      "number": 9,
+      "changedFiles": 3,
+      "additions": 714,
+      "deletions": 32,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjA5NzQw",
+      "title": "Revert \"Fully responsive on pc and mobile screen for home page\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-02T00:04:56Z",
+      "number": 22,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NjA2ODYz",
+      "title": "Revert \"Edited sidebar components to be responsive with mobile device\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-01T23:54:04Z",
+      "number": 19,
+      "changedFiles": 3,
+      "additions": 12,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NTg2MTEy",
+      "title": "Revert \"fixed issue #11\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-01T22:44:50Z",
+      "number": 16,
+      "changedFiles": 2,
+      "additions": 13,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NTM4NDgy",
+      "title": "add 3 projects which starters can begin with",
+      "url": "https://github.com/Ctrl-Alt-Contributors/Contributions-/pull/8",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-10-01T20:49:24Z",
+      "number": 8,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Contributions-",
+        "url": "https://github.com/Ctrl-Alt-Contributors/Contributions-",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/45829763?v=4",
+          "login": "Ctrl-Alt-Contributors",
+          "url": "https://github.com/Ctrl-Alt-Contributors"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NDc5NjE4",
+      "title": "add border-radius to the boards and button, align the button, the boa…",
+      "url": "https://github.com/prateekkalra/guess-game/pull/54",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-10-01T18:57:37Z",
+      "number": 54,
+      "changedFiles": 1,
+      "additions": 19,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "guess-game",
+        "url": "https://github.com/prateekkalra/guess-game",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/29385192?u=2b9c7be13fc60e13e012d4e213d87fdc71306168&v=4",
+          "login": "prateekkalra",
+          "url": "https://github.com/prateekkalra"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MTE2NzIx",
+      "title": "Unclebay contribute",
+      "url": "https://github.com/DavidMatthewFraser/easy-to-git/pull/187",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+        "url": "https://github.com/DavidMatthewFraser",
+        "login": "DavidMatthewFraser"
+      },
+      "createdAt": "2020-10-01T09:38:21Z",
+      "number": 187,
+      "changedFiles": 1,
+      "additions": 75,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "easy-to-git",
+        "url": "https://github.com/DavidMatthewFraser/easy-to-git",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+          "login": "DavidMatthewFraser",
+          "url": "https://github.com/DavidMatthewFraser"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MDc3MDY5",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/86",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-01T08:38:48Z",
+      "number": 86,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MDcyMzQw",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/85",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-10-01T08:30:55Z",
+      "number": 85,
+      "changedFiles": 30,
+      "additions": 834,
+      "deletions": 346,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1MDkwMDQ1",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/82",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T20:35:38Z",
+      "number": 82,
+      "changedFiles": 9,
+      "additions": 42,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1MDY0OTkz",
+      "title": " modify login page, fix error, add error message under the login page…",
+      "url": "https://github.com/unclebay143/Employee-time-sheet/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T19:52:36Z",
+      "number": 3,
+      "changedFiles": 3,
+      "additions": 440,
+      "deletions": 86,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/unclebay143/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1MDYzOTg0",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/79",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T19:50:35Z",
+      "number": 79,
+      "changedFiles": 5,
+      "additions": 475,
+      "deletions": 129,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1MDMyOTM2",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/78",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T18:55:25Z",
+      "number": 78,
+      "changedFiles": 13,
+      "additions": 648,
+      "deletions": 306,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0OTkxMjMy",
+      "title": "Multple client record is enabled for registration and login is succes…",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/76",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T17:31:51Z",
+      "number": 76,
+      "changedFiles": 1,
+      "additions": 10,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0OTY2ODc3",
+      "title": "Add mobile responsiveness to the home page",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/75",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T16:44:50Z",
+      "number": 75,
+      "changedFiles": 4,
+      "additions": 156,
+      "deletions": 39,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0ODYwMjUz",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/72",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T14:08:50Z",
+      "number": 72,
+      "changedFiles": 6,
+      "additions": 95,
+      "deletions": 68,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NzgwMTU1",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/71",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T12:04:52Z",
+      "number": 71,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0Nzc0NTE4",
+      "title": "Registration page makes more sense to me now-it can only get better",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/70",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-29T11:54:31Z",
+      "number": 70,
+      "changedFiles": 7,
+      "additions": 75,
+      "deletions": 146,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDUxMjUz",
+      "title": "combine repetitive conditions into a function, test is successful",
+      "url": "https://github.com/danthareja/contribute-to-open-source/pull/1010",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-09-28T23:14:58Z",
+      "number": 1010,
+      "changedFiles": 4,
+      "additions": 1283,
+      "deletions": 421,
+      "baseRepository": {
+        "name": "contribute-to-open-source",
+        "url": "https://github.com/danthareja/contribute-to-open-source",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/6980359?u=0c2183f282fdeb8583fbd980f3091dba5273a31a&v=4",
+          "login": "danthareja",
+          "url": "https://github.com/danthareja"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDUwNzI5",
+      "title": "combine repetitive conditions into a function, test is succefull",
+      "url": "https://github.com/danthareja/contribute-to-open-source/pull/1009",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-28T23:13:10Z",
+      "number": 1009,
+      "changedFiles": 4,
+      "additions": 1283,
+      "deletions": 421,
+      "baseRepository": {
+        "name": "contribute-to-open-source",
+        "url": "https://github.com/danthareja/contribute-to-open-source",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/6980359?u=0c2183f282fdeb8583fbd980f3091dba5273a31a&v=4",
+          "login": "danthareja",
+          "url": "https://github.com/danthareja"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDQxNTkz",
+      "title": "Unclebay contribute",
+      "url": "https://github.com/DavidMatthewFraser/first-contributions/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-09-28T22:42:36Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 41,
+      "deletions": 65,
+      "baseRepository": {
+        "name": "first-contributions",
+        "url": "https://github.com/DavidMatthewFraser/first-contributions",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+          "login": "DavidMatthewFraser",
+          "url": "https://github.com/DavidMatthewFraser"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDM2Mzk0",
+      "title": "Unclebay contribute",
+      "url": "https://github.com/DavidMatthewFraser/easy-to-git/pull/183",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+        "url": "https://github.com/DavidMatthewFraser",
+        "login": "DavidMatthewFraser"
+      },
+      "createdAt": "2020-09-28T22:26:23Z",
+      "number": 183,
+      "changedFiles": 3,
+      "additions": 25,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "easy-to-git",
+        "url": "https://github.com/DavidMatthewFraser/easy-to-git",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+          "login": "DavidMatthewFraser",
+          "url": "https://github.com/DavidMatthewFraser"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDIwNTUw",
+      "title": "Unclebay contribution",
+      "url": "https://github.com/unclebay143/Team-808-Frontend/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-28T21:44:22Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 346,
+      "deletions": 143,
+      "baseRepository": {
+        "name": "Team-808-Frontend",
+        "url": "https://github.com/unclebay143/Team-808-Frontend",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDE4MDc1",
+      "title": "fix overlaying elements and added image back to first registration page",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/69",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-28T21:38:45Z",
+      "number": 69,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0NDExMDMw",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/68",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-28T21:25:57Z",
+      "number": 68,
+      "changedFiles": 3,
+      "additions": 255,
+      "deletions": 108,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0MzI3NjIw",
+      "title": "Add more comments and clean up function codes",
+      "url": "https://github.com/unclebay143/Future-College-Local-Storage/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-28T18:33:04Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 23,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "Future-College-Local-Storage",
+        "url": "https://github.com/unclebay143/Future-College-Local-Storage",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0MzE1ODI2",
+      "title": "Closed bracket on innerHTML injection",
+      "url": "https://github.com/unclebay143/Future-College-Local-Storage/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-28T18:08:46Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Future-College-Local-Storage",
+        "url": "https://github.com/unclebay143/Future-College-Local-Storage",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk0MzEyNzQ1",
+      "title": "Unclebay develop",
+      "url": "https://github.com/unclebay143/Future-College-Local-Storage/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-28T18:02:13Z",
+      "number": 1,
+      "changedFiles": 4,
+      "additions": 180,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "Future-College-Local-Storage",
+        "url": "https://github.com/unclebay143/Future-College-Local-Storage",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzNzc4ODIx",
+      "title": "Align the pop up registration page",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/67",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-27T21:17:06Z",
+      "number": 67,
+      "changedFiles": 2,
+      "additions": 9,
+      "deletions": 20,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzNzQ3OTQ3",
+      "title": "Dashboard data are now fetch from local storage now, next: cleanup",
+      "url": "https://github.com/unclebay143/Employee-time-sheet/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-27T17:00:26Z",
+      "number": 2,
+      "changedFiles": 9,
+      "additions": 137,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/unclebay143/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzNzQ2NjYy",
+      "title": "Dashboard data are fetch from local storage now, next: cleanup",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/66",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-27T16:49:48Z",
+      "number": 66,
+      "changedFiles": 9,
+      "additions": 137,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzNzIzNDMw",
+      "title": "able to store information to local storage",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/65",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-27T13:42:19Z",
+      "number": 65,
+      "changedFiles": 9,
+      "additions": 247,
+      "deletions": 63,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzNTUzODM0",
+      "title": "Add pop up for continue registration",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/64",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-26T09:33:05Z",
+      "number": 64,
+      "changedFiles": 9,
+      "additions": 157,
+      "deletions": 31,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5OTM3MDMy",
+      "title": "At this point we can add a client and the client can add an employee …",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/55",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-20T18:08:41Z",
+      "number": 55,
+      "changedFiles": 4,
+      "additions": 92,
+      "deletions": 73,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5OTM2NDc2",
+      "title": "Revert \"Resolved Conflict\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Members/pull/37",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-20T18:03:54Z",
+      "number": 37,
+      "changedFiles": 3,
+      "additions": 56,
+      "deletions": 96,
+      "baseRepository": {
+        "name": "Amigo-Dev-Members",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Members",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5ODY0ODAz",
+      "title": "Presentation mode",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/52",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-20T06:34:12Z",
+      "number": 52,
+      "changedFiles": 6,
+      "additions": 182,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5NzM1MzMz",
+      "title": "Add Side Bar to dashboard",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/46",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-19T14:39:46Z",
+      "number": 46,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg4OTM4Mzk1",
+      "title": "resize image",
+      "url": "https://github.com/unclebay143/unclebay143/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-17T21:20:39Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "unclebay143",
+        "url": "https://github.com/unclebay143/unclebay143",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg3NjM0NDc3",
+      "title": "Add Color to the body to realm with the img linear gradient ",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-15T23:30:02Z",
+      "number": 40,
+      "changedFiles": 19,
+      "additions": 47,
+      "deletions": 36,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2OTE2ODY0",
+      "title": "Unclebay develop",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T22:07:16Z",
+      "number": 10,
+      "changedFiles": 1,
+      "additions": 100,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2ODgwOTQx",
+      "title": "Unclebay develop",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T21:02:14Z",
+      "number": 9,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2ODc1Njc5",
+      "title": "Revert \"Merge pull request #1 from unclebay143/master\"",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Members/pull/14",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T20:51:14Z",
+      "number": 14,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Amigo-Dev-Members",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Members",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2ODU5ODYz",
+      "title": "Unclebay develop",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T20:19:10Z",
+      "number": 8,
+      "changedFiles": 2,
+      "additions": 28,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2ODU0MDIx",
+      "title": "Added Challenge 1 Instruction",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T20:07:31Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 36,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2ODUzMzQ3",
+      "title": "Added challenge 1 instruction",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Members/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T20:06:07Z",
+      "number": 12,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Amigo-Dev-Members",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Members",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2ODM3MTA1",
+      "title": "Added Member challenge - Membership profile",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-14T19:33:08Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MjM0NDMz",
+      "title": "Unclebay develop",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-13T20:18:42Z",
+      "number": 5,
+      "changedFiles": 15,
+      "additions": 408,
+      "deletions": 27,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MDQyNDI3",
+      "title": "Unclebay develop",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-12T22:23:44Z",
+      "number": 4,
+      "changedFiles": 7,
+      "additions": 152,
+      "deletions": 48,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MDMwNDcx",
+      "title": "Fixed color, and buttons",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-12T21:31:23Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 10,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MDI4MDU1",
+      "title": "Integrated whatsapp group to join us link",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-12T21:20:58Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MDIyNTU2",
+      "title": "Ready for production",
+      "url": "https://github.com/unclebay143/Amigo-Dev-Community/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-12T20:58:09Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 179,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "Amigo-Dev-Community",
+        "url": "https://github.com/unclebay143/Amigo-Dev-Community",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgzMDY4ODQ4",
+      "title": "New Landing Page Design",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/29",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-09T19:09:40Z",
+      "number": 29,
+      "changedFiles": 22,
+      "additions": 1137,
+      "deletions": 52,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwODI0NjYz",
+      "title": "Cleaned Landing Page Code",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-06T16:53:09Z",
+      "number": 24,
+      "changedFiles": 3,
+      "additions": 8,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwNTk0NTU3",
+      "title": "Added Path to Pages in JS Components",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-05T20:41:16Z",
+      "number": 18,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwMjQ1MDE5",
+      "title": "Added input validation",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-04T23:02:37Z",
+      "number": 15,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwMTUxNTI2",
+      "title": "Unclebay developed landing page 1(First design)",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-04T21:36:32Z",
+      "number": 13,
+      "changedFiles": 6,
+      "additions": 104,
+      "deletions": 11,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc5MDYzOTAz",
+      "title": "Unclebay added dashboard",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T22:47:38Z",
+      "number": 10,
+      "changedFiles": 3,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc5MDM0NDY1",
+      "title": "Added More Tasks",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T22:16:52Z",
+      "number": 9,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc5MDMzMjMz",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T22:15:38Z",
+      "number": 8,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NjE5MTI0",
+      "title": "Landing Page Added",
+      "url": "https://github.com/unclebay143/Employee-time-sheet/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T13:06:39Z",
+      "number": 1,
+      "changedFiles": 8,
+      "additions": 47,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/unclebay143/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NjE3MTY0",
+      "title": "Clean Up",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T13:03:37Z",
+      "number": 7,
+      "changedFiles": 8,
+      "additions": 47,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NjE2NDk2",
+      "title": "Team At Work: Product-Coming-Soon",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T13:02:30Z",
+      "number": 6,
+      "changedFiles": 8,
+      "additions": 47,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NTg5MTI0",
+      "title": "Added Netlify Link - https://pacetimesheet.netlify.app/",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T12:16:14Z",
+      "number": 5,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NTc0NjM1",
+      "title": "Unclebay develop",
+      "url": "https://github.com/nazeeeh/Employee-time-sheet/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-09-03T11:50:17Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Employee-time-sheet",
+        "url": "https://github.com/nazeeeh/Employee-time-sheet",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/43985887?v=4",
+          "login": "nazeeeh",
+          "url": "https://github.com/nazeeeh"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4MTY0MTY0",
+      "title": "Styled button hover and completed challenge 1",
+      "url": "https://github.com/DavidMatthewFraser/easy-to-git/pull/168",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+        "url": "https://github.com/DavidMatthewFraser",
+        "login": "DavidMatthewFraser"
+      },
+      "createdAt": "2020-09-02T20:57:40Z",
+      "number": 168,
+      "changedFiles": 5,
+      "additions": 31,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "easy-to-git",
+        "url": "https://github.com/DavidMatthewFraser/easy-to-git",
+        "owner": {
+          "avatarUrl": "https://avatars2.githubusercontent.com/u/47202564?u=77073571a489e81d1cdc10d30231a13f42199c1c&v=4",
+          "login": "DavidMatthewFraser",
+          "url": "https://github.com/DavidMatthewFraser"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc3MzI4NjUw",
+      "title": "Unclebay contribution",
+      "url": "https://github.com/zero-to-mastery/start-here-guidelines/pull/7659",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/in/29454?v=4",
+        "url": "https://github.com/apps/zero-to-mastery-bot",
+        "login": "zero-to-mastery-bot"
+      },
+      "createdAt": "2020-09-01T20:53:03Z",
+      "number": 7659,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "start-here-guidelines",
+        "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/35373879?v=4",
+          "login": "zero-to-mastery",
+          "url": "https://github.com/zero-to-mastery"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2NTQ0MzM4",
+      "title": "Styled the form to the center and styled the nav item",
+      "url": "https://github.com/BuildForSDGCohort2/Team-808-Frontend/pull/17",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-08-31T21:13:21Z",
+      "number": 17,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "Team-808-Frontend",
+        "url": "https://github.com/BuildForSDGCohort2/Team-808-Frontend",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/68904251?v=4",
+          "login": "BuildForSDGCohort2",
+          "url": "https://github.com/BuildForSDGCohort2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2NDgzOTI3",
+      "title": "Styled Login Page",
+      "url": "https://github.com/BuildForSDGCohort2/Team-808-Frontend/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/48172119?v=4",
+        "url": "https://github.com/usylvie12",
+        "login": "usylvie12"
+      },
+      "createdAt": "2020-08-31T19:05:38Z",
+      "number": 12,
+      "changedFiles": 3,
+      "additions": 91,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "Team-808-Frontend",
+        "url": "https://github.com/BuildForSDGCohort2/Team-808-Frontend",
+        "owner": {
+          "avatarUrl": "https://avatars3.githubusercontent.com/u/68904251?v=4",
+          "login": "BuildForSDGCohort2",
+          "url": "https://github.com/BuildForSDGCohort2"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2MTU5NjQz",
+      "title": "Adjusted Loader Timer to 1500",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-31T08:52:52Z",
+      "number": 8,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2MTU3NTMz",
+      "title": "Adjust Loader Timer",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-31T08:48:28Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2MTQ2Mzk0",
+      "title": "Clean Up and Comments",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-31T08:25:27Z",
+      "number": 6,
+      "changedFiles": 6,
+      "additions": 655,
+      "deletions": 649,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc1OTU5MTMw",
+      "title": "Fix layout compatibility and add support for smaller device navbar",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-30T20:25:09Z",
+      "number": 5,
+      "changedFiles": 3,
+      "additions": 13,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc1ODk2NTgx",
+      "title": "Fixing Mobile Responsive and Added Hamburger Menu ",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-30T11:08:14Z",
+      "number": 4,
+      "changedFiles": 24,
+      "additions": 1849,
+      "deletions": 672,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc0MDI3Nzk0",
+      "title": "Added More Testimonial and Fix Typography",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-26T16:41:51Z",
+      "number": 3,
+      "changedFiles": 5,
+      "additions": 202,
+      "deletions": 58,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDczNTA5MzI0",
+      "title": "Added Achievement-Statistics and Testimonial Section",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-25T21:49:07Z",
+      "number": 2,
+      "changedFiles": 11,
+      "additions": 400,
+      "deletions": 40,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDcyNzc2MDQx",
+      "title": "Added Project Cards And Implementing Typography",
+      "url": "https://github.com/unclebay143/my_portfolio/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2020-08-24T21:28:51Z",
+      "number": 1,
+      "changedFiles": 8,
+      "additions": 345,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "my_portfolio",
+        "url": "https://github.com/unclebay143/my_portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDcxMjgyNjY2",
+      "title": "Ready For Presentation",
+      "url": "https://github.com/graceEjegwa/ContactForm/pull/57",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+        "url": "https://github.com/graceEjegwa",
+        "login": "graceEjegwa"
+      },
+      "createdAt": "2020-08-20T23:01:45Z",
+      "number": 57,
+      "changedFiles": 35,
+      "additions": 129,
+      "deletions": 83,
+      "baseRepository": {
+        "name": "ContactForm",
+        "url": "https://github.com/graceEjegwa/ContactForm",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+          "login": "graceEjegwa",
+          "url": "https://github.com/graceEjegwa"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY4MzcwNzUx",
+      "title": "AyodeleAdebayo- Contribution",
+      "url": "https://github.com/graceEjegwa/ContactForm/pull/55",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+        "url": "https://github.com/graceEjegwa",
+        "login": "graceEjegwa"
+      },
+      "createdAt": "2020-08-15T22:21:29Z",
+      "number": 55,
+      "changedFiles": 3,
+      "additions": 308,
+      "deletions": 256,
+      "baseRepository": {
+        "name": "ContactForm",
+        "url": "https://github.com/graceEjegwa/ContactForm",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+          "login": "graceEjegwa",
+          "url": "https://github.com/graceEjegwa"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY4MzY5MDQw",
+      "title": "Added My Contribution- And Fixed issue",
+      "url": "https://github.com/graceEjegwa/ContactForm/pull/54",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-08-15T21:59:19Z",
+      "number": 54,
+      "changedFiles": 3,
+      "additions": 308,
+      "deletions": 256,
+      "baseRepository": {
+        "name": "ContactForm",
+        "url": "https://github.com/graceEjegwa/ContactForm",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+          "login": "graceEjegwa",
+          "url": "https://github.com/graceEjegwa"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY4MjgwNjEz",
+      "title": "RESOLVED OVERLAYING IMAGES ",
+      "url": "https://github.com/graceEjegwa/ContactForm/pull/53",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-08-15T08:37:39Z",
+      "number": 53,
+      "changedFiles": 4,
+      "additions": 120,
+      "deletions": 67,
+      "baseRepository": {
+        "name": "ContactForm",
+        "url": "https://github.com/graceEjegwa/ContactForm",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+          "login": "graceEjegwa",
+          "url": "https://github.com/graceEjegwa"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY3NDY5OTU4",
+      "title": "Ayodele Samuel Adebayo",
+      "url": "https://github.com/graceEjegwa/ContactForm/pull/25",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-08-13T15:44:39Z",
+      "number": 25,
+      "changedFiles": 21,
+      "additions": 68,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "ContactForm",
+        "url": "https://github.com/graceEjegwa/ContactForm",
+        "owner": {
+          "avatarUrl": "https://avatars1.githubusercontent.com/u/48433475?v=4",
+          "login": "graceEjegwa",
+          "url": "https://github.com/graceEjegwa"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzUzNjA2NDk2",
+      "title": "Finish readme",
+      "url": "https://github.com/unclebay143/hello-world/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+        "url": "https://github.com/unclebay143",
+        "login": "unclebay143"
+      },
+      "createdAt": "2019-12-16T14:58:19Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "hello-world",
+        "url": "https://github.com/unclebay143/hello-world",
+        "owner": {
+          "avatarUrl": "https://avatars0.githubusercontent.com/u/58919619?u=09f08d90e554c7a54dd4749051aa9779722787f7&v=4",
+          "login": "unclebay143",
+          "url": "https://github.com/unclebay143"
+        }
+      }
+    }
+  ],
+  "merged": 91,
+  "open": 4,
+  "totalCount": 100
+}
