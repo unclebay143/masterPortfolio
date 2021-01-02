@@ -280,7 +280,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have picked and worked on personal projects, as well as Open Source Project which have helped me acquired more skills,  ",
   header_image_path: "experience.svg",
   sections: [
     // {
@@ -417,7 +417,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is working with React JS & Redux connected to Node API to create a single webpage Employee Timesheet and deploy using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
